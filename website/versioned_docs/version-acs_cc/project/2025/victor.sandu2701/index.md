@@ -104,7 +104,7 @@ Developed the software using Rust and the Embassy framework. Implemented the gas
 
 ### Schematics
 
-![System Scheematic](schematic.webp)
+![System Scheematic](schematic.svg)
 
 ---
 
